@@ -1,0 +1,3 @@
+<script type="text/script">
+document.write("Hello World!");
+</script>
